@@ -1,5 +1,29 @@
 # Designing Scalable, Reliable Data and AI Systems for Production
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Scalable+Systems;Reliable+Data+Platforms;Production+AI+Architectures;Enterprise+Engineering+Blueprints)
+
+</div>
+
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/BaharathBathula/designing-production-data-ai-systems?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/BaharathBathula/designing-production-data-ai-systems?style=for-the-badge)
+![License](https://img.shields.io/github/license/BaharathBathula/designing-production-data-ai-systems?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/BaharathBathula/designing-production-data-ai-systems?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/BaharathBathula/designing-production-data-ai-systems?style=for-the-badge)
+
+</div>
+
+---
+
+## 📘 Official Companion Repository
+
+A practical resource for engineers, architects, and technology leaders building production-grade data and AI systems.
+
+---
+
 ### Official Companion Repository  
 ### By Baharath Bathula
 
@@ -27,6 +51,13 @@ It contains practical assets for engineers, architects, and technology leaders b
 - Real-world case studies
 
 ---
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7c3aed&height=120&section=header"/>
+
+## 📊 GitHub Insights
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BaharathBathula&show_icons=true&theme=tokyonight" />
+</p>
 
 ## 🧠 Core Topics
 
@@ -43,3 +74,5 @@ templates/
 diagrams/
 case-studies/
 chapters/
+
+
