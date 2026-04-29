@@ -3,6 +3,8 @@
 ### Official Companion Repository  
 ### By Baharath Bathula
 
+<img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 11_33_19 PM" src="https://github.com/user-attachments/assets/f5ba57ec-1d26-4e0a-9726-7a07a0afbbb5" />
+
 ---
 
 ## 📘 About
