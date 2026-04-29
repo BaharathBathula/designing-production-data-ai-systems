@@ -17,12 +17,16 @@
 </div>
 
 ---
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaharathBathula&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📘 Official Companion Repository
 
 A practical resource for engineers, architects, and technology leaders building production-grade data and AI systems.
 
 ---
+![](https://komarev.com/ghpvc/?username=BaharathBathula&style=for-the-badge&color=blue)
 
 ### Official Companion Repository  
 ### By Baharath Bathula
